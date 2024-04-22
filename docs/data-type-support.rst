@@ -1,3 +1,9 @@
+.. meta::
+   :description: rocRAND provides functions that generate pseudo-random and quasi-random numbers
+   :keywords: rocRAND, ROCm, API, documentation
+
+.. _data-type-support:
+
 Data type support
 ******************************************
 

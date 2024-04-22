@@ -17,6 +17,7 @@ Our documentation is structured as follows:
 
   .. grid-item-card:: API reference
 
+    * :ref:`data-type-support`
     * :ref:`cpp-api`
     * :ref:`python-api`
     * :ref:`curand-compatibility`

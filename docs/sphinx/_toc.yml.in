@@ -11,6 +11,7 @@ subtrees:
       title: API reference
       subtrees:
       - entries:
+        - file: data-type-support
         - file: cpp-api
         - file: python-api
         - file: curand-compatibility
